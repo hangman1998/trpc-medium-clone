@@ -1,23 +1,5 @@
-# trpc-template
-this is a trpc template using the below stack
-## Stack
-### Backend
-- express
-- trpc
-- prisma
-### frontend
-- react
-- tailwind css
-- trpc-query
-
-## Features
-- ✅ using npm workspaces to setup the monorepo.
-- ✅ JWT Authentication implemented with `jsonwebtoken` and `bcrypt`.
-- ✅ RBAC Authorization using trpc `meta` and midlewares.
-- ✅ automatic openapi generation using `trpc-openapi`.
-- ✅ frontend using vite.
-- ✅ a node client for testing.
-
+trpc medium clone using `prisma` and `trpc-openapi`
+api implemented according to [realworld](https://realworld-docs.netlify.app/)
 
 ## Development
 
